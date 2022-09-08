@@ -37,9 +37,7 @@ body {
   #header .logo a {
     color: #fff;
   }
-  #header .logo img {
-    max-height: 40px;
-  }
+  
   
   
   /*--------------------------------------------------------------
@@ -76,11 +74,7 @@ body {
     letter-spacing: 0.4px;
     position: relative;
   }
-  .navbar a i, .navbar a:focus i {
-    font-size: 12px;
-    line-height: 0;
-    margin-left: 5px;
-  }
+  
   .navbar > ul > li > a:before {
     content: "";
     position: absolute;
